@@ -1,0 +1,12 @@
+.winner {
+	color:green;
+}
+div {
+	padding-left: 25%;
+}
+body{
+
+	background: url(https://images.unsplash.com/photo-1505391610862-c63dde65ae97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e44c92b64812268585b9d4946a418a7d&auto=format&fit=crop&w=750&q=80);
+    background-size: cover;
+
+}
